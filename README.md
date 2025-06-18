@@ -2,7 +2,7 @@
 
 Chunithm 背景动画与音符特效禁用工具。
 
-项目地址：https://github.com/AstroNot233/Chuni-SFX-Disabler/
+项目地址：[https://github.com/AstroNot233/Chuni-SFX-Disabler](https://github.com/AstroNot233/Chuni-SFX-Disabler)
 
 ## 前言
 
