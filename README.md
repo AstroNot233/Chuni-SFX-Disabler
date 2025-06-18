@@ -15,7 +15,8 @@ Chunithm 背景动画与音符特效禁用工具。
 
 ## 方法1：使用本工具
 
-在[Release](https://github.com/AstroNot233/Chuni-SFX-Disabler/releases/latest)中，获取压缩包并解压，简单工具即开即用。
+在[Release](https://github.com/AstroNot233/Chuni-SFX-Disabler/releases/latest)中，获取压缩包并解压，简单工具即开即用。</br>
+若由于网络原因，也可以考虑从[蓝奏云](https://thornfieldzhu.lanzout.com/b0nz9p6hg)中下载，访问密码为`chuni`。
 
 运行后选择游戏根目录，工具将通过`segatools.ini`找到你的option目录以解决兼容性问题，如果识别错误，也可以手动指定。
 
